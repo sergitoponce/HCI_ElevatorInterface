@@ -26,7 +26,9 @@ Common mistakes with current design: Language barrier may keep someone from reac
 
 Improvements: Redesign the button layout to where instead of going left to right, the buttons are in a single column going from the bottom to the top, where the floor number is increasing. 
 
-[add my own sketch]
+![ElevatorSketch](https://i.imgur.com/imXx4yC.jpg)
 
 
 Section A:
+
+![ElevatorDemoGif](https://media.giphy.com/media/gFcEfvsVVQwhYngOav/giphy.gif)
