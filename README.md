@@ -8,7 +8,7 @@ The elevator I chose is the one located in the Library.
 
 ![ElevatorGifSergio](https://media.giphy.com/media/d8zFJXRsh670SQqQJj/giphy.gif)
 
-My first problem with this interface is the layout of the buttons. As you can see, the buttons are ordered from left to right, going upwards. I believe this is an issue because the buttons should be ordered from bottom to top, increasing, instead of from left to right. There are not many buttons on this interface, so ordering it in this way should not be a problem and it will make it more clear for the user.
+My first problem with this interface is the layout of the buttons. As you can see, the buttons are ordered from left to right, going upwards. This is an issue because it is hard for the user to tell which floor is the very bottom floor and which floor is the very top floor. I believe this can be fixed if the buttons can be ordered from bottom to top, increasing, instead of from left to right. There are not many buttons on this interface, so ordering it in this way should not be a problem and it will make it more clear for the user.
 
 
 ### Section B:
@@ -29,7 +29,7 @@ Common mistakes with current design:
 Language barrier may keep someone from reaching the bottom floor since there are two button on the bottom row. If someone doesn't know what floor B or floor G is, then they will not know which floor is the bottom floor with the current layout. Also, if you press the wrong floor by accident, there is no way to back out of the selection.
 
 Improvements: 
-Redesign the button layout to where instead of going left to right, the buttons are in a single column going from the bottom to the top, where the floor number is increasing. Here is my sketch.
+Redesign the button layout to where instead of going left to right, the buttons are in a single column going from the bottom to the top, where the floor number is increasing. This will make it easier for the user to tell which is the very bottom floor and which is the very top floor. Here is my sketch.
 
 ![ElevatorSketch](https://i.imgur.com/imXx4yC.jpg?1)
 
