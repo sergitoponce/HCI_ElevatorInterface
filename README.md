@@ -3,7 +3,7 @@ HCI Homework 1
 
 Section C:
 
-![ElevatorImageSergio](https://i.imgur.com/VPVMM5M.jpg)
+![ElevatorImageSergio](https://i.imgur.com/VPVMM5M.jpg?1)
 
 The elevator I chose is the one located in the Library.
 
